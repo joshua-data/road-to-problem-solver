@@ -8,7 +8,11 @@ Internal Study Group with Learning Data Structures, Algorithms, and Problem-solv
 
 2. Curriculum
     * [x] [Array](https://www.algodale.com/data-structures/array/)
+        * [x] Studied myself.
+        * [x] Feedback from the team.
     * [x] [Stack](https://www.algodale.com/data-structures/stack/)
+        * [x] Studied myself.
+        * [ ] Feedback from the team.    
     * [ ] [Queue](https://www.algodale.com/data-structures/queue/)
     * [ ] [Linked List](https://www.algodale.com/data-structures/linked-list/)
     * [ ] [Hash Table](https://www.algodale.com/data-structures/hash-table/)    
