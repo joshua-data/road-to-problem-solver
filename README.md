@@ -12,8 +12,10 @@ Internal Study Group with Learning Data Structures, Algorithms, and Problem-solv
         * [x] Feedback from the team.
     * [x] [Stack](https://www.algodale.com/data-structures/stack/)
         * [x] Studied myself.
-        * [ ] Feedback from the team.    
-    * [ ] [Queue](https://www.algodale.com/data-structures/queue/)
+        * [x] Feedback from the team.    
+    * [x] [Queue](https://www.algodale.com/data-structures/queue/)
+        * [x] Studied myself.
+        * [ ] Feedback from the team.
     * [ ] [Linked List](https://www.algodale.com/data-structures/linked-list/)
     * [ ] [Hash Table](https://www.algodale.com/data-structures/hash-table/)    
     * [ ] [Binary Tree](https://www.algodale.com/data-structures/binary-tree/)
