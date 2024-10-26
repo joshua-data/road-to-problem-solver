@@ -12,7 +12,7 @@ Internal Study Group with Learning Data Structures, Algorithms, and Problem-solv
     * [x] [Queue](https://www.algodale.com/data-structures/queue/)
     * [x] [Linked List](https://www.algodale.com/data-structures/linked-list/)
     * [x] [Hash Table](https://www.algodale.com/data-structures/hash-table/)    
-    * [ ] [Binary Tree](https://www.algodale.com/data-structures/binary-tree/)
+    * [x] [Binary Tree](https://www.algodale.com/data-structures/binary-tree/)
     * [ ] [Set](https://www.algodale.com/data-structures/set/)
     * [ ] [Graph](https://www.algodale.com/data-structures/graph/)
     * [ ] [Heap](https://www.algodale.com/data-structures/heap/)
