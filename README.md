@@ -25,7 +25,7 @@ Internal Study Group with Learning Data Structures, Algorithms, and Problem-solv
     * [Link](https://www.algodale.com/algorithms)
 
 2. Curriculum
-    * [ ] [Recursion Algorithm](https://www.algodale.com/algorithms/recursion/)
+    * [x] [Recursion Algorithm](https://www.algodale.com/algorithms/recursion/)
     * [ ] [Fibonacci Algorithm](https://www.algodale.com/algorithms/fibonacci/)
     * [ ] [Selection Sort](https://www.algodale.com/algorithms/selection-sort/)
     * [ ] [Bubble Sort](https://www.algodale.com/algorithms/bubble-sort/)
